@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esetalcamacho
-- 👀 I’m interested in backend developer, RPA and technology.
-- 🌱 I’m currently learning JAVA, PHP, HTML, CSS, POO, SQL and UiPath.
+- 👀 I’m interested in backend developer, data-science and technology.
+- 🌱 I’m currently learning Python, HTML, CSS, POO, and SQL.
 - 💞️ I’m looking to collaborate on Startups and projects related with agronomy tech.
 - 📫 How to reach me you can write here or on my Twitter @esetalcamacho.
 
