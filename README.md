@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @esetalcamacho
-- 👀 I’m interested in backend developer, data-science and technology.
-- 🌱 I’m currently learning Python, HTML, CSS, POO, and SQL.
-- 💞️ I’m looking to collaborate on Startups and projects related with agronomy tech.
-- 📫 How to reach me you can write here or on my Twitter @esetalcamacho.
+Hi, I'm Jhoan, a Data Analyst with experience in the healthcare sector. I leverage tools like Python and pandas to transform complex data into actionable insights that support decision-making. My focus is on data cleaning, analysis, and visualization, always aiming to improve efficiency and accuracy. If you're interested in workflow optimization and data analysis in healthcare, feel free to explore my projects!
+
 
 <!---
 esetalcamacho/esetalcamacho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
